@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "follow-redirects": "^1.9.0",
+    "follow-redirects": "^1.14.7",
     "puppeteer": "^1.20.0",
     "puppeteer-core": "^1.20.0",
     "request": "^2.88.0"
